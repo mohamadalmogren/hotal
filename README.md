@@ -1,4 +1,5 @@
 # hotal
-this is demo for course 2
+this is hotal website it's static.
 
-this is for testing only
+doing by:  
+  html & css 
